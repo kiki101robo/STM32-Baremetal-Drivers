@@ -1,0 +1,3 @@
+C:/Users/kisho/Documents/STM32_Advanced_Baremetal/10_uart_dma/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/dma.c:11:6:dma2_mem2mem_config	2
+../Src/dma.c:61:6:dma_transfer_start	1
