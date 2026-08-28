@@ -1,0 +1,5 @@
+C:/Users/kisho/Documents/STM32_Advanced_Baremetal/4_WorkingWithITM-Printf_logs/chip_headers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Src/swo.c:7:5:__io_putchar	16	static
+../Src/swo.c:14:6:log_error	16	static
+../Src/swo.c:22:6:log_info	16	static
+../Src/swo.c:30:6:log_debug	16	static
