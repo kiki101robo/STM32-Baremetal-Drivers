@@ -42,11 +42,11 @@ Video demonstrations for each project will be added here over time.
 | _coming soon_ | |
 
 ## Repository Structure
-├── 0_test/
-├── 1_DebuggingBasic/
-├── ...
-├── 14_pwm_dma_driver/
-└── README.md
+    ├── 0_test/
+    ├── 1_DebuggingBasic/
+    ├── ...
+    ├── 14_pwm_dma_driver/
+    └── README.md
 
 Each project folder is a standalone STM32CubeIDE project containing its own `Inc`, `Src`, and startup files.
 
