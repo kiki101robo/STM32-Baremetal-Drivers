@@ -1,6 +1,6 @@
 # STM32F411RE Bare-Metal Peripheral Drivers
 
-This repository contains bare-metal peripheral drivers for the STM32F411RE (ARM Cortex-M4), written directly against CMSIS — no HAL or LL libraries. Each project targets a specific peripheral or concept, built up incrementally from basic GPIO/debugging to DMA-driven communication and ADC/PWM control.
+This repository contains bare-metal peripheral drivers for the STM32F411RE (ARM Cortex-M4), written directly against CMSIS (no HAL or LL libraries). Each project targets a specific peripheral or concept, built up incrementally from basic GPIO/debugging to DMA-driven communication and ADC/PWM control.
 
 The goal of this repo is to understand and implement peripheral behavior at the register level, without relying on ST's abstraction layers.
 
