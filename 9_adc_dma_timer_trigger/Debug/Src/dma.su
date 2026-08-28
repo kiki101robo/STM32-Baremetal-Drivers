@@ -1,0 +1,3 @@
+C:/Users/kisho/Documents/STM32_Advanced_Baremetal/9_adc_dma_timer_trigger/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/dma.c:11:6:dma2_mem2mem_config	8	static
+../Src/dma.c:61:6:dma_transfer_start	24	static
